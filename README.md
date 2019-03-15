@@ -1,1 +1,1 @@
-# Types-and-structures-of-data
+# Types and structures of data
