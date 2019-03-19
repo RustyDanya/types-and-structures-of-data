@@ -7,4 +7,4 @@ main.o: main.c
 	$(CC) -c main.c
 
 clean:
-	rm *.exe *.o
+	rm *.exe *.o *.dot *.png
